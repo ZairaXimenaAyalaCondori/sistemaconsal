@@ -1,0 +1,23 @@
+.owl-client .item img {
+    width: auto;
+    max-width: 100%;
+    padding: 0 15%;
+}
+.part1{
+    height: 107px;
+}
+.part2{
+    width: 199px;
+}
+.part3{
+    opacity: 1; 
+    display: block;
+}
+.part4{
+    width: 2786px; 
+    left: 0px; 
+    display: block; 
+    transition: all 800ms ease 0s; 
+    transform: translate3d(-300px, 0px, 0px);
+}
+

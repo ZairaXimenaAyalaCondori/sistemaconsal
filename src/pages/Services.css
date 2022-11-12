@@ -1,0 +1,34 @@
+.card-title{
+    color: #77be2d;
+}
+.card-text{
+    font-weight: 500;
+    font-size: 13px;
+    opacity: 0.7;
+}
+.fw-semibold:hover{
+    color: #77be2d;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+}
+
+.fw-semibold, .fst-italic{
+    margin-bottom: .5rem;
+}
+
+.works{
+    background-color: #f5f5f5;
+}
+
+.card{
+    --bs-card-border-width: 0px;
+    --bs-card-inner-border-radius: 0px;
+}
+.card:hover{
+    filter: grayscale();
+    transition: all 0.5s;
+    cursor: pointer;
+}
+.stylecard{
+    height: 150px!important;
+}
